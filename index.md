@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Elia Genini
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Elia Genini
+Software engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="elia.genini@pm.me">elia.genini@pm.me</a>
+| <a href="https://github.com/eliagenini">GitHub</a>
 </div>
 
 
